@@ -1,0 +1,27 @@
+{
+  "name": "hover-hand",
+  "version": "0.0.1",
+  "description": "Hover 3D effect",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e1016/hover-hand.git"
+  },
+  "keywords": [
+    "hover",
+    "effects",
+    "animations",
+    "3D",
+    "css"
+  ],
+  "author": "e1016",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e1016/hover-hand/issues"
+  },
+  "homepage": "https://github.com/e1016/hover-hand#readme"
+}
