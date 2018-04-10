@@ -2,6 +2,10 @@
 
 hover effect like Open IA articles (rotation 3D)
 
+## install
+```
+npm install --save hover-hand
+```
 ## use
 
 ```js
