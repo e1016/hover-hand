@@ -6,6 +6,12 @@ hover effect like Open IA articles (rotation 3D)
 ```
 npm install --save hover-hand
 ```
+## example
+
+<p align="center">
+  <img src="media/ex.gif"/>
+</p>
+
 ## use
 
 ```js
