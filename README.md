@@ -1,6 +1,6 @@
 # hover-hand
 
-hover effect like Open IA articles (rotation 3D)
+hover effect like [Open IA articles](https://openai.com/) (rotation 3D)
 
 ## install
 ```
